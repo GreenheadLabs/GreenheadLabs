@@ -5,8 +5,6 @@
 <br />
 
 <div align="center">
-  <img src="assets/logo.png" width="88" alt="Greenhead Labs" />
-
   <h1>Greenhead Labs</h1>
 
   <p>
