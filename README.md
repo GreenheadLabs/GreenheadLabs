@@ -25,10 +25,6 @@
   · [LinkedIn](https://www.linkedin.com/company/greenhead-labs/)
 </div>
 
-<p align="center">
-  <img src="assets/homepage.png" alt="Greenhead Labs homepage — mallard mark on blue, tagline Building the XRPL economy brick by brick" width="900" />
-</p>
-
 ---
 
 ## What it is
