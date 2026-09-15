@@ -2,11 +2,11 @@
   <img src="assets/banner.png" alt="Greenhead Labs — private digital treasury, Wyoming LLC" width="100%" />
   <p>Pay-per-call XRPL APIs and on-chain identity. Application source stays private.</p>
   <p>
-    <a href="https://x402.greenhead.io/status"><img src="assets/badges/live.svg" alt="XRPL Live" height="28" /></a>
-    <a href="https://greenhead.io"><img src="assets/badges/website.svg" alt="Website" height="28" /></a>
-    <a href="https://x402.greenhead.io"><img src="assets/badges/x402.svg" alt="x402" height="28" /></a>
-    <a href="https://greenhead.io/did"><img src="assets/badges/did.svg" alt="did:xrpl" height="28" /></a>
-    <a href="https://x.com/Greenhead_io"><img src="assets/badges/x.svg" alt="@Greenhead_io" height="28" /></a>
+    <a href="https://x402.greenhead.io/status"><img src="assets/badges/live.png" alt="XRPL Live" height="28" /></a>
+    <a href="https://greenhead.io"><img src="assets/badges/website.png" alt="Website" height="28" /></a>
+    <a href="https://x402.greenhead.io"><img src="assets/badges/x402.png" alt="x402" height="28" /></a>
+    <a href="https://greenhead.io/did"><img src="assets/badges/did.png" alt="did:xrpl" height="28" /></a>
+    <a href="https://x.com/Greenhead_io"><img src="assets/badges/x.png" alt="@Greenhead_io" height="28" /></a>
   </p>
 </div>
 
