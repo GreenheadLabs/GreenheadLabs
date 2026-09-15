@@ -46,22 +46,22 @@ Agents: [llms.txt](https://x402.greenhead.io/llms.txt) · [OpenAPI](https://x402
 
 ## Identity
 
-Machine-readable. No login required. Counterparties should check these three files first. This GitHub profile is listed in the DID `alsoKnownAs`.
+Machine-readable. No login required. Check these files first. This GitHub profile is a DID alias on the company document.
 
-| Verify | |
-| ---: | :--- |
+| Check | URL |
+| :--- | :--- |
 | DID document | [greenhead.io/did.json](https://greenhead.io/did.json) |
 | XRPL TOML | [greenhead.io/.well-known/xrp-ledger.toml](https://greenhead.io/.well-known/xrp-ledger.toml) |
-| Domain linkage | [/.well-known/did-configuration.json](https://greenhead.io/.well-known/did-configuration.json) |
-| Company DID | [`did:xrpl:r3E25CzRmwMRNmT15mD3s8tLP9fZHbmN7B`](https://dev.uniresolver.io/#did:xrpl:r3E25CzRmwMRNmT15mD3s8tLP9fZHbmN7B) |
+| Domain linkage | [greenhead.io/.well-known/did-configuration.json](https://greenhead.io/.well-known/did-configuration.json) |
+| Company DID | [did:xrpl:r3E25Cz…HbmN7B](https://dev.uniresolver.io/#did:xrpl:r3E25CzRmwMRNmT15mD3s8tLP9fZHbmN7B) |
 
 Treasury and agent accounts are in the TOML. [ID](https://greenhead.io/Id) · [Agent](https://greenhead.io/Agent) · [Treasury](https://greenhead.io/Treasury)
 
 ## Contact
 
-| | |
-| ---: | :--- |
-| Contact | [greenhead.io/flight-path](https://greenhead.io/flight-path) |
+| Channel | |
+| :--- | :--- |
+| Inquiries | [greenhead.io/flight-path](https://greenhead.io/flight-path) |
 | Company | [greenhead.io/greenheadlabs](https://greenhead.io/greenheadlabs) |
 | Team | [greenhead.io/Ourteam](https://greenhead.io/Ourteam) |
 | Operations | [admin@greenhead.io](mailto:admin@greenhead.io) |
