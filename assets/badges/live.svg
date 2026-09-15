@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="28" role="img" aria-label="XRPL Live">
+  <rect width="118" height="28" rx="6" fill="#0d0d0d"/>
+  <circle cx="14" cy="14" r="4" fill="#00d4aa"/>
+  <text x="68" y="18" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#00d4aa">XRPL · Live</text>
+</svg>

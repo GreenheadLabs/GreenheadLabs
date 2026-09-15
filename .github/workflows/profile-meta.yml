@@ -1,0 +1,34 @@
+name: Profile repo metadata
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Description, homepage, topics
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          gh repo edit "$GITHUB_REPOSITORY" \
+            --description "Private digital treasury · XRPL · Wyoming LLC" \
+            --homepage "https://greenhead.io" \
+            --add-topic xrpl \
+            --add-topic x402 \
+            --add-topic did \
+            --add-topic wyoming-llc \
+            --add-topic digital-treasury
+          gh api -X PATCH "repos/${GITHUB_REPOSITORY}" \
+            -F has_wiki=false \
+            -F has_issues=false \
+            -F has_projects=false \
+            || echo "Wiki/issues/projects need Administration; description/topics may still apply."
